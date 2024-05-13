@@ -3,7 +3,7 @@ const numbersDiv = document.querySelector('.numbers')
 const drawButton = document.querySelector('#draw')
 const resetButton = document.querySelector('#reset')
 const lottoNumbers = []
-const colors = ['orange', 'skyblue', 'red', 'purple', 'green']
+const colors = ['orange', 'skyblue', 'red', 'gray', 'yellowgreen']
 
 // paintNumber 함수
 function paintNumber(number){
